@@ -8,7 +8,7 @@ body {
 .header {
     display: flex;
     flex-direction:column;
-    background-image: url(landing-layout-4.jpeg);
+    background-image: url(landing-layout-4.JPEG);
     background-repeat: no-repeat;
     background-size: cover;
     height: 750px;
@@ -269,7 +269,7 @@ a:hover {
     /*background-color: rgb(190, 190, 190);*/
     /*background-color:  black;*/
     /*background-color: rgb(100, 100, 100);*/
-    background-image: url(records.jpg);
+    background-image: url(records.JPG);
     background-repeat: no-repeat;
     background-size: cover;
     padding: 10px;
