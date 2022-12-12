@@ -8,7 +8,7 @@ body {
 .header {
     display: flex;
     flex-direction:column;
-    background-image: url('landing-layout-4.JPEG');
+    background-image: url(/desktop/repos/END-PROJECT/landing-layout-4.JPEG);
     background-repeat: no-repeat;
     background-size: cover;
     height: 750px;
